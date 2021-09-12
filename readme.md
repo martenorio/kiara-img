@@ -17,4 +17,4 @@ npm run build
 ```
 # Live
 
-[Page](https://martenorio.github.io/kiara-img/)
+[Page](https://martenorio.github.io/kiara-img/dist/)
