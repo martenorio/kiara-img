@@ -19,7 +19,7 @@ const geometry = new THREE.PlaneBufferGeometry(1,1.3)
 
 for (let i = 0; i < 4; i++) {
     const material = new THREE.MeshBasicMaterial({
-        map: textureLoader.load(`/photographs/${i}.jpg`)
+        map: textureLoader.load(`./photographs/${i}.jpg`)
     })
     const img = new THREE.Mesh(geometry,material)
 
